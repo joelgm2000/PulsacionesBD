@@ -1,0 +1,13 @@
+D:\PG\webPulsaciones\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+D:\PG\webPulsaciones\Logica\bin\Debug\netstandard2.0\Logica.dll
+D:\PG\webPulsaciones\Logica\bin\Debug\netstandard2.0\Logica.pdb
+D:\PG\webPulsaciones\Logica\bin\Debug\netstandard2.0\Datos.dll
+D:\PG\webPulsaciones\Logica\bin\Debug\netstandard2.0\Entity.dll
+D:\PG\webPulsaciones\Logica\bin\Debug\netstandard2.0\Datos.pdb
+D:\PG\webPulsaciones\Logica\bin\Debug\netstandard2.0\Entity.pdb
+D:\PG\webPulsaciones\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+D:\PG\webPulsaciones\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+D:\PG\webPulsaciones\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+D:\PG\webPulsaciones\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+D:\PG\webPulsaciones\Logica\obj\Debug\netstandard2.0\Logica.dll
+D:\PG\webPulsaciones\Logica\obj\Debug\netstandard2.0\Logica.pdb
